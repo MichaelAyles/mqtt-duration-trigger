@@ -44,6 +44,14 @@ mqtt_duration_trigger:
   - **input_topic** (*Required*): The MQTT topic to subscribe to for button state changes.
   - **output_topic** (*Required*): The MQTT topic to publish the trigger message to.
 
+## Example
+
+Here's a screenshot demonstrating the MQTT Duration Trigger in action:
+
+![MQTT Duration Trigger Example](MQTT_Explorer.png)
+
+This image shows the MQTT messages being published and received, illustrating how the component distinguishes between short and long button presses.
+
 ## Usage
 
 The component subscribes to the specified input topics. When it receives a message:
