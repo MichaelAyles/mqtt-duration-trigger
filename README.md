@@ -10,6 +10,14 @@ MQTT Duration Trigger is a custom component for Home Assistant that allows you t
 
 ## Installation
 
+### HACS (Recommended)
+
+1. Ensure that [HACS](https://hacs.xyz/) is installed.
+2. Search for "MQTT Duration Trigger" in HACS and install it.
+3. Restart Home Assistant.
+
+### Manual Installation
+
 1. Copy the `mqtt_duration_trigger` folder into your `custom_components` directory in your Home Assistant configuration directory.
 2. Restart Home Assistant.
 
