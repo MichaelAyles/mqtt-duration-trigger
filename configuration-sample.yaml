@@ -1,0 +1,7 @@
+mqtt_duration_trigger:
+  threshold: 1.0
+  topics:
+    - input_topic: "nspanel/Living Room Panel/r1_state"
+      output_topic: "nspanel/Living Room Panel/r1_trigger"
+    - input_topic: "nspanel/Living Room Panel/r2_state"
+      output_topic: "nspanel/Living Room Panel/r2_trigger"

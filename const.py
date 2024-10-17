@@ -1,0 +1,5 @@
+DOMAIN = "mqtt_duration_trigger"
+CONF_TOPICS = "topics"
+CONF_THRESHOLD = "threshold"
+CONF_MQTT_USERNAME = "mqtt_username"
+CONF_MQTT_PASSWORD = "mqtt_password"

@@ -1,0 +1,9 @@
+{
+    "domain": "mqtt_duration_trigger",
+    "name": "MQTT Duration Trigger",
+    "documentation": "https://example.com/mqtt_duration_trigger",
+    "dependencies": ["mqtt"],
+    "codeowners": [],
+    "requirements": [],
+    "version": "0.1.0"
+  }
