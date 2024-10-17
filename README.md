@@ -12,6 +12,8 @@ MQTT Duration Trigger is a custom component for Home Assistant that allows you t
 
 ### HACS (Recommended)
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=MichaelAyles&repository=mqtt-duration-trigger&category=Integrations)
+
 1. Ensure that [HACS](https://hacs.xyz/) is installed.
 2. Search for "MQTT Duration Trigger" in HACS and install it.
 3. Restart Home Assistant.
